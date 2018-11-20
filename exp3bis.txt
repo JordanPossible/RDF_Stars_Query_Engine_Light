@@ -1,0 +1,66 @@
+
+ after suffle
+
+workload time : 2805
+
+workload time : 2132
+
+workload time : 2031
+
+workload time : 2021
+
+workload time : 1993
+
+workload time : 2037
+
+workload time : 1973
+
+workload time : 2033
+
+workload time : 2048
+
+workload time : 1947
+
+ after suffle
+
+workload time : 1946
+
+workload time : 1974
+
+workload time : 1971
+
+workload time : 2040
+
+workload time : 2108
+
+workload time : 1974
+
+workload time : 2009
+
+workload time : 2031
+
+workload time : 1947
+
+workload time : 2067
+
+ after suffle
+
+workload time : 2032
+
+workload time : 1949
+
+workload time : 2054
+
+workload time : 2085
+
+workload time : 2007
+
+workload time : 2111
+
+workload time : 2036
+
+workload time : 1967
+
+workload time : 1948
+
+workload time : 1946

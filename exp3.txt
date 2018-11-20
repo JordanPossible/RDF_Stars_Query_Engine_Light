@@ -1,0 +1,84 @@
+
+workload time : 2893
+
+workload time : 1953
+
+workload time : 1806
+
+workload time : 1831
+
+workload time : 1918
+
+workload time : 2052
+
+workload time : 1934
+
+workload time : 1805
+
+workload time : 1823
+
+workload time : 1798
+
+ after suffle
+
+workload time : 1784
+
+workload time : 1752
+
+workload time : 1805
+
+workload time : 1840
+
+workload time : 1700
+
+workload time : 1759
+
+workload time : 1691
+
+workload time : 1763
+
+workload time : 1900
+
+workload time : 1780
+
+workload time : 2866
+
+workload time : 1884
+
+workload time : 1810
+
+workload time : 1809
+
+workload time : 1770
+
+workload time : 1814
+
+workload time : 1852
+
+workload time : 1860
+
+workload time : 1831
+
+workload time : 1827
+
+ after suffle
+
+workload time : 2019
+
+workload time : 2019
+
+workload time : 1988
+
+workload time : 2008
+
+workload time : 1992
+
+workload time : 1952
+
+workload time : 2005
+
+workload time : 2110
+
+workload time : 2070
+
+workload time : 2046

@@ -1,0 +1,103 @@
+-- Dataset : 1M.rdfxml.rdf || Memoire : 8GB --
+big table : 3416
+dico : 2085
+index : 2669
+
+
+big table : 3418
+dico : 2102
+index : 2360
+
+
+big table : 3425
+dico : 2135
+index : 2602
+
+
+big table : 3297
+dico : 2076
+index : 2727
+
+
+big table : 3775
+dico : 2034
+index : 2377
+
+-- Dataset : 100K || Memoire : 8GB --
+
+big table : 1046
+dico : 156
+index : 126
+
+
+big table : 893
+dico : 182
+index : 129
+
+
+big table : 981
+dico : 166
+index : 128
+
+
+big table : 883
+dico : 191
+index : 197
+
+
+big table : 1040
+dico : 172
+index : 129
+
+-- Dataset : 100K || Memoire : 4GB --
+
+big table : 968
+dico : 167
+index : 137
+
+
+big table : 1237
+dico : 249
+index : 147
+
+
+big table : 837
+dico : 232
+index : 142
+
+
+big table : 1092
+dico : 188
+index : 123
+
+
+big table : 881
+dico : 169
+index : 132
+
+-- Dataset : 1M.rdfxml.rdf || Memoire : 4GB --
+
+big table : 4455
+dico : 2093
+index : 2648
+
+
+big table : 4044
+dico : 2005
+index : 2849
+
+
+big table : 3549
+dico : 1909
+index : 2367
+
+
+big table : 4126
+dico : 2059
+index : 2517
+
+
+big table : 3984
+dico : 1978
+index : 3025
+

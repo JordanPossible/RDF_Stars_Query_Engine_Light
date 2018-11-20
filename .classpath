@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-model-2.7.11.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-queryalgebra-evaluation-2.7.11.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-rio-api-2.7.11.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-rio-extensions-api-0.1.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-rio-rdfxml-2.7.11.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/sesame-util-2.7.11.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181020/libraries/slf4j-simple-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jena-arq-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jena-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jena-iri-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jena-sdb-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/jena-tdb-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/owlapi-distribution-3.4.10.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/kissmyskunk/Downloads/Materiel pour le projet-20181118/jena/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

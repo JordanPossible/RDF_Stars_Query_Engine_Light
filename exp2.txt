@@ -1,0 +1,88 @@
+-- Dataset : 1M || Workload : q_100 --
+workload time : 78
+
+workload time : 158
+
+workload time : 36
+
+workload time : 37
+
+workload time : 114
+
+workload time : 37
+
+workload time : 37
+
+workload time : 35
+
+workload time : 101
+
+workload time : 36
+
+-- Dataset : 1M || Workload : q_1000000 --
+
+workload time : 1769
+
+workload time : 647
+
+workload time : 604
+
+workload time : 603
+
+workload time : 600
+
+workload time : 605
+
+workload time : 602
+
+workload time : 604
+
+workload time : 644
+
+workload time : 599
+
+-- Dataset : 100K || Workload : q_1000000 --
+
+
+workload time : 170
+
+workload time : 187
+
+workload time : 103
+
+workload time : 105
+
+workload time : 107
+
+workload time : 129
+
+workload time : 101
+
+workload time : 105
+
+workload time : 103
+
+workload time : 130
+
+-- Dataset : 100K || Workload : q_100 --
+
+
+workload time : 24
+
+workload time : 5
+
+workload time : 6
+
+workload time : 5
+
+workload time : 5
+
+workload time : 5
+
+workload time : 4
+
+workload time : 5
+
+workload time : 4
+
+workload time : 5
